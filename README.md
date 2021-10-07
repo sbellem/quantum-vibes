@@ -11,3 +11,5 @@ Resources on the topic of Quantum Money
 
 ## Talks
 [QCrypt 2020: A Quantum Money Solution to the Blockchain Scalability Problem](https://youtu.be/P5fpNHi9wLc)
+
+[The physics of cryptography](https://youtu.be/PJo8SzeG9kw)
