@@ -3,7 +3,9 @@ Resources on the topic of Quantum Money
 
 
 ## Papers
-[Quantum Money from Quaternion Algebras](https://arxiv.org/abs/2109.12643)
+(Conjugate Coding)[https://edu.itp.phys.ethz.ch/hs12/qsit/wiesner.pdf] by Stephen Wiesner
+
+[Quantum Money from Quaternion Algebras](https://arxiv.org/abs/2109.12643) by Daniel M. Kane, Shahed Sharif, and Alice Silverberg
 
 [A Quantum Money Solution to the Blockchain Scalability Problem](https://arxiv.org/abs/2002.11998)
 
