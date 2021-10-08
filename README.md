@@ -17,7 +17,7 @@ Resources on the topic of Quantum Money
 
 [Quantum to Classical One Way Function and Its Applications in Quantum Money Authentication](https://arxiv.org/abs/1801.01910) by Amit Behera and Goutam Paul
 
-[Quantum Lightning Never Strikes the Same State Twice](Mark Zhandry)
+Zhandry, Mark. "Quantum lightning never strikes the same state twice." In Annual International Conference on the Theory and Applications of Cryptographic Techniques, pp. 408-438. Springer, Cham, 2019. https://arxiv.org/abs/1711.02276
 
 [Quantum money with nearly optimal error tolerance](https://arxiv.org/abs/1610.06345) by Ryan Amiri, Juan Miguel Arrazola
 
